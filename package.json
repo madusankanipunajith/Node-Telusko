@@ -1,0 +1,28 @@
+{
+  "name": "node-telusko",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madusankanipunajith/Node-Telusko.git"
+  },
+  "author": "madusanka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/madusankanipunajith/Node-Telusko/issues"
+  },
+  "homepage": "https://github.com/madusankanipunajith/Node-Telusko#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongodb": "^4.13.0",
+    "mongoose": "^6.8.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
